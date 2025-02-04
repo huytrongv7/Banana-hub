@@ -1,6 +1,1 @@
-Config = {
-    namescript = "pear hub",--Tên Script
-    logoscript = "111627710929023",--ID Logo Script
-    tacgia = "huytrong"-- Tên Tác Giả
-}
-loadstring(game:HttpGet("https://raw.githubusercontent.com/tngaming123/vesion/refs/heads/main/scriptbffree.lua"))()
+https://www.roblox.com/game-pass/1045145012
